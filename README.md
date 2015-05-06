@@ -1,9 +1,6 @@
 ![Automatic Jekyll Breadcrumb for GitHub Pages](https://comsysto.github.io/jekyll-breadcrumb-for-github-pages/img/breadcrumb-banner.png)
 
-This Project is a demonstration Project of the **Automatic Jekyll Breadcrumb for GitHub Pages** mentioned in the following BlogPost:
-  - http://blog.comsysto.com/2015/04/25/automatic-breadcrumb-for-jekyll-on-github-pages/
+This Project is a demonstration Project of the **Automatic Jekyll Breadcrumb for GitHub Pages**.
 
-To **see the breadcrumb in action** visit the project Page:
-  - https://comsysto.github.io/jekyll-breadcrumb-for-github-pages/
+:heavy_exclamation_mark: **[See the master-branch/Readme.md](https://github.com/comsysto/jekyll-breadcrumb-for-github-pages/tree/master) for more info.**
 
-To **check see the code** clone this repository and **checkout the gh-pages branch**.
