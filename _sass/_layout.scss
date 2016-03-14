@@ -26,7 +26,7 @@
 .breadcrumb li {font-size: 14px;}
 .breadcrumb a {color: $brand-color;}
 .breadcrumb a:hover {color: darken($brand-color, 20%);}
-.breadcrumb>.active {color: lighten($brand-color, 20%)}
+.breadcrumb>.active a {color: #555555; }
 .breadcrumb>li+li:before {color:$brand-color; content: "\003E\00a0";}
 
 
