@@ -25,8 +25,7 @@ Fore more instructions on **jekyll** see the [jekyll documentation](http://jekyl
 If you just want the breadcrumb-snippet here you have it.
 You can use this code on your jekyll Page to render the breadcrumb.
 
-<script src="https://gist.github.com/csgruenebe/8f7beef9858c1b8625d6.js"></script>
-
+**[Open the gist](https://gist.github.com/csgruenebe/8f7beef9858c1b8625d6)**
 
 ### License
 
