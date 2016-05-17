@@ -13,7 +13,6 @@ To **see the code of the project Page** clone this repository and **checkout the
 ```
 git clone https://github.com/comsysto/jekyll-breadcrumb-for-github-pages.git
 cd jekyll-breadcrumb-for-github-pages
-git checkout gh-pages
 jekyll serve
 ```
 Go to http://127.0.0.1:4000/jekyll-breadcrumb-for-github-pages/
