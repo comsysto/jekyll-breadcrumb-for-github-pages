@@ -28,7 +28,7 @@ You can use this code on your jekyll Page to render the breadcrumb.
 
 ### License
 
-The code is licensed under the **CC0 1.0 - Public Domain License**. Author is **comSysto GmbH**.
+The code is licensed under the **CC0 1.0 - Public Domain License**. Author is **Comsysto Reply GmbH**.
   - See: https://creativecommons.org/publicdomain/zero/1.0/
 
 
